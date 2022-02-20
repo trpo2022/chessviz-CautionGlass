@@ -1,0 +1,4 @@
+#исключим файл chess
+/chess
+#исключим файл .clang-format
+/.clang-format
