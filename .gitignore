@@ -1,2 +1,5 @@
-#исключим файл chess
-/chess
+*.exe
+*.swp
+*.out
+*main
+*chessviz
